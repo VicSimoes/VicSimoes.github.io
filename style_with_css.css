@@ -18,7 +18,6 @@ h1 {
 h4 {
 font-size: 26px;
 
-
 }
 
 /* Make the job descriptions (e.g. Co-Owner, A1A Car Wash) blue and 20px font */
@@ -39,7 +38,7 @@ img {
 /* Set the font family for the whole document, and add a background image */
 body {
   font-family: 'Droid Sans', 'arial';
-  background-image: url(napa.jpg);
+  background-image: url(Napa.jpg);
   background-size: cover;
   position: center center;
   background-attachment: fixed;
